@@ -115,6 +115,3 @@ def manage_the_game(num_of_guesses:int, wordes_list:list) -> None:
 def main(num_of_guesses:int, wordes_list:list) -> None:
     "laueches the game."
     manage_the_game(num_of_guesses, wordes_list)
-
-
-main(NUM_OF_GUESSES, WORDS_LIST)
